@@ -1,0 +1,6 @@
+{
+  "name": "Links Oral Sin Bela Vista do Paraíso",
+  "description": "Agregador de links oficial para a Oral Sin Implantes de Bela Vista do Paraíso - PR",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
